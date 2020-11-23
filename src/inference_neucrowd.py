@@ -10,7 +10,7 @@ import pickle
 import pandas as pd
 
 warnings.simplefilter('ignore', category=Warning, lineno=0, append=False)
-
+ 
 
 DATA_NAME = 'hotel'
 dimension = 300
